@@ -68,7 +68,6 @@
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>${version.org.apache.log4j}</version>
-            <scope>provided</scope>
             <exclusions>
                 <exclusion>
                     <groupId>com.sun.jdmk</groupId>
